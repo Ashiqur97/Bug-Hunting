@@ -66,3 +66,10 @@ site:*.*.cn intext:security report reward
 "van de melding met een minimum van een" -site:responsibledisclosure.nl
 inurl : /bitcon bug bounty
 inurl : btc security rewards
+site:your-target.com inurl:id=
+site:your-target.com filetype:php
+site:your-target.com intitle:upload
+inurl:”.php?id=” intext:”View cart”
+inurl:”.php?cid=” intext:”shopping”
+inurl:/news.php?include=
+inurl:”.php?query=”
